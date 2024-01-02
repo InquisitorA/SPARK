@@ -2,7 +2,7 @@
 
 Scala code can be coded directly from the spark-shell or loaded into the shell using "load:"
 
-<code>$ spark-shell</code>
+`spark-shell`
 
 //To execute scala scripts use scalac compiler:
 
