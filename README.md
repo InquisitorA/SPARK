@@ -1,8 +1,8 @@
 # SPARK
 
-//Scala code can be coded directly from the spark-shell or loaded into the shell using "load:"
+Scala code can be coded directly from the spark-shell or loaded into the shell using "load:"
 
-spark-shell
+'spark-shell'
 
 //To execute scala scripts use scalac compiler:
 
